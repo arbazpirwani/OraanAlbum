@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Oraan Album</string>
+    <string name="logo_description">app main logo</string>
+    <string name="search">search</string>
+    <string name="users">Users</string>
+    <string name="photo_count">%1d photos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="album">Albums</string>
+    <string name="exit_message">Tap again to exit</string>
+    <string name="error_message">something went wrong!</string>
+
+</resources>
